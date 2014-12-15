@@ -6,7 +6,7 @@ var whereAreWe = function() {
     // Ask the device for the current position;
     // When we find it run the function ‘updatePosition’ (a ‘callback’)
     navigator.geolocation.getCurrentPosition(updatePosition, onError);
-}
+};
 
 var updatePosition = function(position) {
     var country = rgc.get_country(position.coords.latitude, position.coords.longitude);
@@ -16,7 +16,7 @@ var updatePosition = function(position) {
     
     $("#loading").addClass("hidden");
     $results.removeClass("hidden");
-}
+};
 
 var onError = function(error) {
     // this code is run if the app fails in finding out where we are
@@ -25,9 +25,5 @@ var onError = function(error) {
 };
 
 var initialize = function() {
-    // When the event `deviceready` is triggered,
-    // (when the Cordova functions have iniated)
-    // run the function `showReady`
-    
-    document.addEventListener('deviceready', whereAreWe, false);
-}
+    whereAreWe();
+};
