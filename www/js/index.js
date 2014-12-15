@@ -6,11 +6,14 @@ var whereAreWe = function() {
 
 var updatePosition = function(position) {
     var $results = $('#results');
-	console.log(position);
     $results.html( "latitude " + position.coords.latitude + ", longitude " + position.coords.longitude  );
     
     $("#loading").addClass("hidden");
     $results.removeClass("hidden");
+    
+    var $database = $('#database');
+    $database.html(JSON.stringify(jankdatabase, null, 2));
+    $database.removeClass("hidden");
 };
 
 var onError = function(error) {

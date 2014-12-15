@@ -17,7 +17,6 @@ body {
 
 /* All the div’s just below the body get lay-out on the same place */
 body > div {
-    position: absolute;
     top: 30px;
     left: 10px;
     right: 10px;
