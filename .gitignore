@@ -6,6 +6,8 @@ console.log
 # have specific html/css/js for the iOS platform
 platforms/ios/www/
 
+# Aptana
+.project
 
 # ANDROID / ECLIPSE
 
