@@ -73,6 +73,54 @@ var jankdatabase = [
 	"reden" : "Aanvang projectweek: tijdgebrek",
 },
 
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20141104T10:00+01:00",
+	"locatie" : "PD 208",
+	"reden" : "Coachgesprek",
+},
+
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20141117T13:00+01:00",
+	"locatie" : "PD 208",
+	"reden" : "Coding valt zwaar",
+},
+
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20141130T11:00+01:00",
+	"locatie" : "PD 208",
+	"reden" : "Werk niet meer kunnen overzien",
+},
+
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20141201T14:00+01:00",
+	"locatie" : "kamer pauline",
+	"reden" : "Frustratie: Geen tijd om ziek te zijn",
+},
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20141203T14:10+01:00",
+	"locatie" : "thuis",
+	"reden" : "Niet in staat om te werken",
+},
+
+{
+	"Naam"	  : "Orphe",
+	"tijd"    : "20141203T14:10+01:00",
+	"locatie" : "Onbekend",
+	"reden" : "Toen ik dan toch echt mijn definitieve besluit vertelde om later af te studeren tegen Michel en Frits. ",
+},
+
+{
+	"Naam"	  : "Orphe",
+	"tijd"    : "20141203T14:10+01:00",
+	"locatie" : "Onbekend",
+	"reden" : "Verheul zei dat dat ik moest overwegen om vrijwillig het 3de jaar overnieuw te doen. ",
+},
+
 
 
 
