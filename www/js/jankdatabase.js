@@ -9,7 +9,7 @@ var jankdatabase = [
 	"Naam"	  : "Rosa",
 	"tijd"    : "20131022T10:00+12:00",
 	"locatie" : "kamer Pauline",
-	"reden" : "Werk niet meer kunnen overzien",
+	"reden" : "Niet weten waar te beginnen",
 },
 {
 	"Naam"	  : "Rosa",
@@ -17,5 +17,18 @@ var jankdatabase = [
 	"locatie" : "PC 212",
 	"reden" : "Werk niet meer kunnen overzien",
 },
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20131101T10:00+12:00",
+	"locatie" : "kamer pauline",
+	"reden" : "Werk niet meer kunnen overzien",
+},
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20131105T10:00+08:30",
+	"locatie" : "gang",
+	"reden" : "Frustratie: slecht gewerkt de afgelopen dagen",
+},
+
 
 ];
