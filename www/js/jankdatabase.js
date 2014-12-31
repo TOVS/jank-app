@@ -63,7 +63,7 @@ var jankdatabase = [
 	"Naam"	  : "Rosa",
 	"tijd"    : "20140916T11:00+01:00",
 	"locatie" : "Kamer Pauline",
-	"reden" : "Reflectie afgelopen jaar, aanvang stuiedjaar",
+	"reden" : "Reflectie afgelopen jaar, aanvang studiejaar",
 },
 
 {
@@ -120,6 +120,51 @@ var jankdatabase = [
 	"locatie" : "Onbekend",
 	"reden" : "Verheul zei dat dat ik moest overwegen om vrijwillig het 3de jaar overnieuw te doen. ",
 },
+
+
+{
+	"Naam"	  : "Roos",
+	"tijd"    : "20140703T21:30+01:00",
+	"locatie" : "gipsenzaal",
+	"reden" : "Ik krijg te horen dat ik ben gezakt.",
+},
+
+
+{
+	"Naam"	  : "Roos",
+	"tijd"    : "20140703T13:30+01:00",
+	"locatie" : "PD 205",
+	"reden" : "Dagen en nachten al je energie erin stoppen, wordt je werk volledig afgekraakt door de jury.",
+},
+
+{
+	"Naam"	  : "Roos",
+	"tijd"    : "20140603T12:00+01:00",
+	"locatie" : "Computerzaal",
+	"reden" : "Ik zie het niet meer zitten en niks lukt me te beginnen met werken.",
+},
+
+
+{
+	"Naam"	  : "Roos",
+	"tijd"    : "20130129T17:00+01:00",
+	"locatie" : "BB105",
+	"reden" : "Je krijgt een voldoende maar je hebt in zoveel stress geleefd dat niks meer leuk is.",
+},
+
+{
+	"Naam"	  : "Roos",
+	"tijd"    : "20131218T11:00+01:00",
+	"locatie" : "PD208",
+	"reden" : "Je oma heeft een hersenbloeding, niet aan denken, die scriptie heeft voorrang.",
+},
+
+
+
+
+
+
+
 
 
 
