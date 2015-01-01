@@ -108,14 +108,14 @@ var jankdatabase = [
 },
 
 {
-	"Naam"	  : "Orphe",
+	"Naam"	  : "Malou",
 	"tijd"    : "20141203T14:10+01:00",
 	"locatie" : "Onbekend",
 	"reden" : "Toen ik dan toch echt mijn definitieve besluit vertelde om later af te studeren tegen Michel en Frits. ",
 },
 
 {
-	"Naam"	  : "Orphe",
+	"Naam"	  : "Malou",
 	"tijd"    : "20141203T14:10+01:00",
 	"locatie" : "Onbekend",
 	"reden" : "Verheul zei dat dat ik moest overwegen om vrijwillig het 3de jaar overnieuw te doen. ",
@@ -159,14 +159,88 @@ var jankdatabase = [
 	"reden" : "Je oma heeft een hersenbloeding, niet aan denken, die scriptie heeft voorrang.",
 },
 
+{
+	"Naam"	  : "Orphe",
+	"tijd"    : "20130220T11:00+01:00",
+	"locatie" : "Glasbak, 4de jaars lokaal",
+	"reden" : "Sorry, maar je mag niet afstuderen. (FUCK!)",
+},
 
+{
+	"Naam"	  : "Orphe",
+	"tijd"    : "20111022T11:00+01:00",
+	"locatie" : "Spiegelgang",
+	"reden" : "Ik ben 1 van de 10 allochtonen op school.",
+},
 
+{
+	"Naam"	  : "Orphe",
+	"tijd"    : "20120127T11:00+01:00",
+	"locatie" : "BB105",
+	"reden" : "Gelukkig heeft iedereen uit de klas net zo een zware kater door gisteravond.",
+},
 
+{
+	"Naam"	  : "Orphe",
+	"tijd"    : "20120126T11:00+01:00",
+	"locatie" : "Hal Blijenburg",
+	"reden" : "Grafisch is vanaf nu officeel de party afdeling!",
+},
 
+{
+	"Naam"	  : "Orphe",
+	"tijd"    : "20110615T11:00+01:00",
+	"locatie" : "Docentenkamer Blijenburg",
+	"reden" : "Vanaf nu ga ik nooooooit meer te stressen.",
+},
 
+{
+	"Naam"	  : "Orphe",
+	"tijd"    : "20120515T11:00+01:00",
+	"locatie" : "WC Blijenburg",
+	"reden" : "Shit, wat zie ik er slecht uit!",
+},
 
+{
+	"Naam"	  : "Orphe",
+	"tijd"    : "20110312T11:00+01:00",
+	"locatie" : "BB105",
+	"reden" : "School heeft me eerste echte relatie kapot gemaakt",
+},
 
+{
+	"Naam"	  : "Orphe",
+	"tijd"    : "20131201T11:00+01:00",
+	"locatie" : "Glasbak",
+	"reden" : "Nergens kan ik aan de bak als ontwerper",
+},
 
+{
+	"Naam"	  : "Orphe",
+	"tijd"    : "20101125T11:00+01:00",
+	"locatie" : "Lokaal Blijenburg",
+	"reden" : "School is belangerijker dan me vriendin...",
+},
 
+{
+	"Naam"	  : "Orphe",
+	"tijd"    : "20120414T11:00+01:00",
+	"locatie" : "Expohal",
+	"reden" : "Wie is dit leuke meisje?",
+},
+
+{
+	"Naam"	  : "Orphe",
+	"tijd"    : "20110618T11:00+01:00",
+	"locatie" : "Docentenkamer Blijenburg",
+	"reden" : "Jaaaaa man! Heb me P!",
+},
+
+{
+	"Naam"	  : "Orphe",
+	"tijd"    : "20110618T11:00+01:00",
+	"locatie" : "Docentenkamer Blijenburg",
+	"reden" : "Jaaaaa man! Heb me P!",
+},
 
 ];
