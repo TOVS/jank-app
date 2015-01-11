@@ -1,39 +1,74 @@
 var jankdatabase = [
 {
 	"Naam"	  : "Rosa",
-	"tijd"    : "20131011T10:00+01:00",
+	"tijd"    : "20131011T20:00+01:00",
 	"locatie" : "PD 208",
-	"reden" : "Overvallen door de hoeveelheid werk",
+	"reden" : "Hele dag paniekonterpen: niks bereikt",
 },
 {
 	"Naam"	  : "Rosa",
 	"tijd"    : "20131022T12:00+01:00",
 	"locatie" : "Kamer Pauline",
-	"reden" : "Niet weten waar ik moet beginnen",
+	"reden" : "Pff ik kan echt helemaal niks",
 },
+
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20131105T15:30+01:00",
+	"locatie" : "Gang bij Pauline",
+	"reden" : "paniekaanval",
+},
+
 {
 	"Naam"	  : "Rosa",
 	"tijd"    : "20131105T08:30+01:00",
 	"locatie" : "Gang bij Pauline",
-	"reden" : "Frustraties, slecht gewerkt de afgelopen dagen",
+	"reden" : "Ik ben een slecht persoon, want ik heb slecht gewerkt",
 },
 {
 	"Naam"	  : "Rosa",
 	"tijd"    : "20131108T14:00+01:00",
 	"locatie" : "PC 212",
-	"reden" : "Ik kan het werk niet meer overzien",
+	"reden" : "Ik kom niet meer boven",
+},
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20131029T14:00+01:00",
+	"locatie" : "gang pauline",
+	"reden" : "Ik ben niet in staat om te erkennen dat mijn lichaam op is",
 },
 {
 	"Naam"	  : "Rosa",
 	"tijd"    : "20131114T10:00+01:00",
+	"locatie" : "ingang",
+	"reden" : "Hoe moet ik deze dag in godsnaam beginnen",
+},
+
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20131112T10:00+01:00",
+	"locatie" : "ingang",
+	"reden" : "Ik ben nu al opgebrand",
+},
+
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20131114T13:00+01:00",
 	"locatie" : "PC 212",
-	"reden" : "Een paniekerig gevoel",
+	"reden" : "paniekaanval",
+},
+
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20131112T11:40+01:00",
+	"locatie" : "PC 212",
+	"reden" : "Ik voel geen emoties meer",
 },
 {
 	"Naam"	  : "Rosa",
 	"tijd"    : "20131122T15:00+01:00",
 	"locatie" : "PC 212",
-	"reden" : "De arts constateert een burn-out",
+	"reden" : "De arts constateert een burn-out: advies per direct stoppen",
 },
 {
 	"Naam"	  : "Rosa",
@@ -41,45 +76,66 @@ var jankdatabase = [
 	"locatie" : "Kamer Pauline",
 	"reden" : "Ik besluit per direct te stoppen met het studiejaar",
 },
+
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20131128T16:00+01:00",
+	"locatie" : "Kamer Pauline",
+	"reden" : "Mijn leven stelt niks voor als ik niet presteer",
+},
+
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20131130T16:00+01:00",
+	"locatie" : "ingang",
+	"reden" : "Wie ben ik eigenlijk als ik niks presteer?",
+},
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20131220T16:00+01:00",
+	"locatie" : "ingang",
+	"reden" : "De afgelopen tijd alleen maar de muren van mijn eigen kamer gezien, ben nu nog zo ontzettend moe",
+},
+
 {
 	"Naam"	  : "Rosa",
 	"tijd"    : "20140916T11:00+01:00",
 	"locatie" : "Kamer Pauline",
-	"reden" : "Het nieuwe studiejaar begint en ik kijk terug op het vorige jaar",
+	"reden" : "Het nieuwe studiejaar begint en ik kijk met veel onzekerheid en angst terug op het vorige jaar",
 },
 
 {
 	"Naam"	  : "Rosa",
 	"tijd"    : "20141028T13:00+01:00",
 	"locatie" : "Kamer Pauline",
-	"reden" : "Tijdgebrek tijdens de projectweek",
+	"reden" : "Mijn hoofd staat echt helemaal niet naar de projectweek",
 },
 
 {
 	"Naam"	  : "Rosa",
 	"tijd"    : "20141104T10:00+01:00",
 	"locatie" : "PD 208",
-	"reden" : "Coachgesprek",
+	"reden" : "Ik word echt heel onzeker van mijn coachgesprek",
 },
 
 {
 	"Naam"	  : "Rosa",
 	"tijd"    : "20141117T13:00+01:00",
 	"locatie" : "PD 208",
-	"reden" : "Coding valt me zwaar",
+	"reden" : "Coding valt me echt heel zwaar",
 },
 
 {
 	"Naam"	  : "Rosa",
 	"tijd"    : "20141201T14:00+01:00",
 	"locatie" : "Kamer pauline",
-	"reden" : "Ik heb geen tijd om ziek te zijn",
+	"reden" : "Ik heb echt geen tijd om ziek te zijn",
 },
 {
 	"Naam"	  : "Rosa",
 	"tijd"    : "20141203T14:10+01:00",
 	"locatie" : "Ingang",
-	"reden" : "Ik ben niet in staat om te werken",
+	"reden" : "Ik ben nu niet in staat om te werken, dat kan ik me nu zeker niet permiteren",
 },
 
 {
@@ -251,6 +307,40 @@ var jankdatabase = [
 	"tijd"    : "20140514T16:05+01:00",
 	"locatie" : "WC glasbak",
 	"reden" : "Ik denk teveel op de wc",
+},
+
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20120514T16:05+01:00",
+	"locatie" : "Lauren alexander lokaal",
+	"reden" : "Mijn samenwerkingsproject gaat te langzaam",
+},
+
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20110614T14:00+01:00",
+	"locatie" : "kunstgeschiedenislokaal",
+	"reden" : "Alles is te veel werk bij elkaar",
+},
+
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20110714T114:30+01:00",
+	"locatie" : "toilet bleijenburg",
+	"reden" : "op deze manier ga ik nooit toekomen aan pauze",
+},
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20120514T14:00+01:00",
+	"locatie" : "Filosofielokaal",
+	"reden" : "Ik ben veel te moe, slaap veel te slecht",
+},
+
+{
+	"Naam"	  : "Rosa",
+	"tijd"    : "20120214T16:10+01:00",
+	"locatie" : "Hal bleijenburg",
+	"reden" : "Jeetje, vanaf 10:00 doorgewerkt zonder toiletbezoeken en eten",
 },
 
 ];
