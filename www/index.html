@@ -3,27 +3,74 @@
     <head>
         <meta charset="utf-8" />
         <meta name="format-detection" content="telephone=no" />
-        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, target-densitydpi=device-dpi" />
-        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-		scale=1.0, minimum-scale=1.0, target-densitydpi=device-dpi" />
+        
+        <title>Cry me a river</title>
+         
+        <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap-theme.min.css" />
+        <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css" />
+        <link rel="stylesheet" type="text/css" href="css/style.css" />
         <meta name="msapplication-tap-highlight" content="no" />
-        <title>More Rain</title>
-    </head>
-    <body>
-        <div id="loading">
-            <div id="spinner"></div>
-        </div>
-        <div id="database" class="hidden">
-        	
-        </div>
-        <div id="results" class="hidden">
-            Position: 
-        </div>
+        
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/jquery-2.1.1.js"></script>
+        <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
         <script type="text/javascript" src="js/jankdatabase.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
+        
+        
         <script type="text/javascript">
-            initialize();
+        initialize();
         </script>
+        
+        <style>
+        html {
+        background-image: url('img/paardensport.jpg'); 
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+        }
+        </style>
+        
+    </head>
+    
+    <body>
+    
+
+<nav class="navbar navbar-inverse navbar-static-top riverbar">
+  <div class="container">
+    <p class="navbar-text">CRY ME A RIVER</p>
+  </div>
+</nav>
+
+<div id="loading">
+            <div id="spinner"><img src="img/oog.png"></div>
+        </div>
+
+<div id="oog" class="oog hidden"><img class="oog" src="img/oogjer.gif"></div>
+
+<div id="container" class="container-fluid hidden">
+
+<!-- Jankmoment -->
+    <div class="row jankmoment">
+        <div id="reden" class="col-xs-12 reden"></div>
+    </div>
+    
+    <div class="row jankmoment">
+        <div id="locatie" class="col-xs-12"></div>
+        <div id="tijd" class="col-xs-12"></div>
+    </div>
+
+<!-- Jouw positie -->
+    <div class="row jankmoment">
+    	<div class="col-xs-12">jouw locatie:</div>
+        <div id="results" class="col-xs-12 coods"></div>
+    </div>
+    
+    
+</div>
+
+
     </body>
 </html>

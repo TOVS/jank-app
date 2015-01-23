@@ -1,0 +1,113 @@
+@charset "UTF-8";
+
+@import "http://fonts.googleapis.com/css?family=Roboto:500,300";
+
+* {
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
+/* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+body {
+	-webkit-touch-callout:none;
+/* prevent callout to copy image, etc when tap to hold */
+	-webkit-text-size-adjust:none;
+/* prevent webkit from resizing text to fit */
+	-webkit-user-select:none;
+/* prevent copy paste, to allow, change 'none' to 'text' */
+	background-color:transparent;
+	color:#555f66;
+	font-family:"Roboto",Helvetica,sans-serif;
+	font-size:14pt;
+	font-weight:300;
+	line-height:1.75em;
+}
+
+/* Portrait layout (default) */
+/* All the divÕs just below the body get lay-out on the same place 
+body > div {
+    top: 30px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+}
+*/
+
+.hidden {
+	visibility:hidden;
+}
+
+
+#spinner { /* thks http://codepen.io/mgrubinger/pen/MYWQRx */
+  	height: 45px;
+    width: 60px;
+    margin: auto;
+    margin-top: 200px;
+    -webkit-animation-name: loader-spin;
+    -webkit-animation-duration: 3.5s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    animation-name: loader-spin;
+    animation-duration: 3.5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@-webkit-keyframes loader-spin {
+  from   {  transform: rotate(0deg); }
+  to     {  transform: rotate(360deg); }
+}
+
+@keyframes loader-spin {
+  from   {  transform: rotate(0deg); }
+  to     {  transform: rotate(360deg); }
+}
+
+.riverbar {
+	font-size: 16px;
+	text-align: center;
+}
+
+.jankmoment {
+	text-align: center;
+	background-color: rgba(255,255,255,0.95);
+	color:#666f77;
+	font-weight:300;
+	margin: 0.6em;
+	margin-bottom: 1em;
+	text-transform:uppercase;
+	letter-spacing:.125em;
+	font-size:20px;
+	line-height:24px;
+	padding: 12px;
+	box-shadow: 0px 0px 20px 15px rgba(0, 0, 0, 0.85);
+	-moz-box-shadow: 0px 0px 20px 15px rgba(0, 0, 0, 0.85);
+	-webkit-box-shadow: 0px 0px 20px 15px rgba(0, 0, 0, 0.85);
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	
+}
+
+.reden {
+	font-size: 25px;
+	line-height: 28px;
+	padding: 5px;
+}
+
+.coods {
+	font-size:16px;
+}
+
+div.oog {
+ margin: 0.6em;
+ margin-top: -30px;
+ padding:0px;
+ margin-bottom: -20px;
+}
+
+img.oog {
+	display: block;
+	margin: auto;
+	height: 70%;
+	width: 70%;
+}
